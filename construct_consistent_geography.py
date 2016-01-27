@@ -25,6 +25,9 @@ t0 = datetime.datetime.now()
 
 # MAKING A SMALL CHANGE.  IS THIS ON THE BRANCH?
 
+#
+## MASTer CHANGE B
+
 ##############################
 # 0.1: Defining directories
 GENT = 'C:/Users/Bartik/Dropbox/Research/Gentrification/'
